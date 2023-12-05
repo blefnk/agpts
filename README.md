@@ -2,10 +2,10 @@
 
 🤖 Curated Collection of Custom GPT Models Created by ChatGPT Users
 
-## Web
+## Web Dev
 
-- [Next.js Assistant](https://chat.openai.com/g/g-BpowaL7rU-next-js-assistant)https://chat.openai.com/g/g-BpowaL7rU-next-js-assistant
+- [Next.js Assistant](https://chat.openai.com/g/g-BpowaL7rU-next-js-assistant)
 
 ## Games
 
-- [open.mp](https://chat.openai.com/g/g-gHMRReIhv-open-mp)https://chat.openai.com/g/g-gHMRReIhv-open-mp
+- [open.mp](https://chat.openai.com/g/g-gHMRReIhv-open-mp)
